@@ -4,6 +4,8 @@
 
 2회차 - chapter03 타입과 추상화, chapter04 역할, 책임, 협력
 
-3회차 - chapter05 책임과 메시지, chapter06 객체 지도
+3회차 - chapter05 책임과 메시지
 
-4회차 - chapter07 함께 모으기, 부록 추상화 기법
+4회차 - chapter06 객체 지도
+
+5회차 - chapter07 함께 모으기, 부록 추상화 기법
